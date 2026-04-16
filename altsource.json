@@ -18,7 +18,7 @@
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-04-16T01:09:26Z",
+          "date": "2026-04-16T01:15:31Z",
           "localizedDescription": "Automated CI build from ${GITHUB_SHA}.",
           "downloadURL": "https://github.com/y-aplus/tabiplot-ios-dist/releases/download/latest/TabiPlotIOS.ipa",
           "size": 1076686,
