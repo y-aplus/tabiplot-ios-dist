@@ -31,6 +31,33 @@
         ],
         "privacy": {}
       }
+    },
+    {
+      "name": "TabiPlot",
+      "bundleIdentifier": "com.yaplus.TabiPlotIOS",
+      "developerName": "y-aplus",
+      "subtitle": "Travel timeline companion for TabiPlot",
+      "localizedDescription": "iPhone companion app for viewing travel plans, making lightweight edits, launching map apps, and testing the TabiPlot widget.",
+      "iconURL": "https://raw.githubusercontent.com/y-aplus/ios-app-dist/main/apps/tabiplot/icon.png",
+      "tintColor": "#2B3E63",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-04-23T15:15:09Z",
+          "localizedDescription": "Automated CI build from 4cb72e7b3de95eab0371beda28eeaff9a79cd9d6.",
+          "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/tabiplot-ios-latest/TabiPlotIOS.ipa",
+          "size": 1076706,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      }
     }
   ],
   "news": [],
