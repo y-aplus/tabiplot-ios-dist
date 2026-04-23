@@ -1,5 +1,5 @@
 {
-  "name": "YHide iOS Apps",
+  "name": "y-aplus iOS Apps",
   "subtitle": "Windows-only CI builds for SideStore/AltStore",
   "description": "Unsigned iOS builds distributed for SideStore/AltStore testing.",
   "website": "https://github.com/y-aplus/ios-app-dist",
@@ -8,7 +8,7 @@
     {
       "name": "TabiPlot",
       "bundleIdentifier": "com.yhide.TabiPlotIOS",
-      "developerName": "YHide",
+      "developerName": "y-aplus",
       "subtitle": "Travel timeline companion for TabiPlot",
       "localizedDescription": "iPhone companion app for viewing travel plans, making lightweight edits, launching map apps, and testing the TabiPlot widget.",
       "iconURL": "https://raw.githubusercontent.com/y-aplus/ios-app-dist/main/apps/tabiplot/icon.png",
@@ -18,8 +18,8 @@
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-04-23T15:06:11Z",
-          "localizedDescription": "Automated CI build from 09a01d89acd3c51903cdbfc2b0eb6235222f33c6.",
+          "date": "2026-04-23T15:12:00Z",
+          "localizedDescription": "Automated CI build from c8693d261638d3f0493b88e04ddb9a0231cd20e7.",
           "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/tabiplot-ios-latest/TabiPlotIOS.ipa",
           "size": 1076686,
           "minOSVersion": "17.0"
