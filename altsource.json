@@ -31,8 +31,30 @@
         ],
         "privacy": {}
       }
+    },
+    {
+      "name": "Zaiko",
+      "bundleIdentifier": "com.yaplus.ZaikoApp",
+      "developerName": "y-aplus",
+      "subtitle": "在庫と残日数を管理する通知対応アプリ",
+      "localizedDescription": "在庫品目の残量、残日数、消費速度を管理し、しきい値以内になった品目をローカル通知で知らせます。既存PWAのJSONバックアップを読み込めます。",
+      "iconURL": "https://raw.githubusercontent.com/y-aplus/ios-app-dist/main/apps/zaiko/icon.png",
+      "tintColor": "#2F6F4E",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-04-26T02:54:11.055Z",
+          "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/zaiko-ios-latest/ZaikoApp.ipa",
+          "localizedDescription": "在庫品目の残量、残日数、消費速度を管理し、しきい値以内になった品目をローカル通知で知らせます。既存PWAのJSONバックアップを読み込めます。",
+          "size": 1403293
+        }
+      ]
     }
   ],
   "news": [],
-  "iconURL": "https://raw.githubusercontent.com/y-aplus/tabiplot-ios-dist/main/icon.png"
+  "iconURL": "https://raw.githubusercontent.com/y-aplus/tabiplot-ios-dist/main/icon.png",
+  "identifier": "com.yaplus.ios-app-dist",
+  "sourceURL": "https://raw.githubusercontent.com/y-aplus/ios-app-dist/main/altsource.json"
 }
