@@ -18,10 +18,10 @@
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-04-30T15:28:33Z",
-          "localizedDescription": "Automated CI build from c22c4143108eb64648ab3c97f46c38514e997f2f.",
+          "date": "2026-04-30T15:57:20Z",
+          "localizedDescription": "Automated CI build from 7a6ce0a501d061e71c3259d6371f721e885563b9.",
           "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/tabiplot-ios-latest/TabiPlotIOS.ipa",
-          "size": 1077857,
+          "size": 1117583,
           "minOSVersion": "17.0"
         }
       ],
