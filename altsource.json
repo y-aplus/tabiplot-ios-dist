@@ -6,22 +6,22 @@
   "tintColor": "#2B3E63",
   "apps": [
     {
-      "name": "TabiPlot",
+      "name": "TabiScore",
       "bundleIdentifier": "com.yaplus.TabiPlotIOS",
       "developerName": "y-aplus",
-      "subtitle": "Travel timeline companion for TabiPlot",
-      "localizedDescription": "iPhone companion app for viewing travel plans, making lightweight edits, launching map apps, and testing the TabiPlot widget.",
-      "iconURL": "https://raw.githubusercontent.com/y-aplus/ios-app-dist/main/apps/tabiplot/icon.png",
+      "subtitle": "Travel timeline companion for TabiScore",
+      "localizedDescription": "iPhone companion app for viewing travel plans, making lightweight edits, launching map apps, and testing the TabiScore widget.",
+      "iconURL": "https://raw.githubusercontent.com/y-aplus/ios-app-dist/main/apps/tabiscore/icon.png",
       "tintColor": "#2B3E63",
       "category": "utilities",
       "versions": [
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-05-03T13:25:33Z",
-          "localizedDescription": "Automated CI build from 4fcf92923050619669234f2699df41d8e28d1488.",
-          "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/tabiplot-ios-latest/TabiPlotIOS.ipa",
-          "size": 1137036,
+          "date": "2026-05-05T08:01:31Z",
+          "localizedDescription": "Automated CI build from b5fc0a93f887fa5c6467c519d17e77d425f78102.",
+          "downloadURL": "https://github.com/y-aplus/ios-app-dist/releases/download/tabiscore-ios-latest/TabiScoreIOS.ipa",
+          "size": 1138548,
           "minOSVersion": "17.0"
         }
       ],
